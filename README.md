@@ -7,12 +7,12 @@
 **Threesome teamwork**
 
 ### Collaborators:
-* [Dmytro Titov](https://github.com/DmytroTitov) - creating modal window, card's rendering, styles. Files: Card.js, cardRenderFunc.js, Modal.js.
 * [Danil Gulak](https://gitlab.com/DanilGulak) - creating visits, drag&drop logic, styles, HTML layout. Files: Visit.js, VisitComponents.js, dragAndDrop.js, authorization.js
+* [Dmytro Titov](https://github.com/DmytroTitov) - creating modal window, card's rendering, styles. Files: Card.js, cardRenderFunc.js, Modal.js.
 * [Viacheslav Vereschaka](https://gitlab.com/vereschaka.slava) - creating authorization form, creating and filtrating visits/cards. Files: Form.js, FormComponents.js
 
 ### Working page:
-[Look to the landing](https://dmytrotitov.github.io/doc-project/)  
+[Look to the landing](https://danilgulak.github.io/doc-project/)  
 
 login: a@a.a  
 pass: 123
